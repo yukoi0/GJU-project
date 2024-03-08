@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3098226543295829328}
   - component: {fileID: 3925219285321261155}
   - component: {fileID: 7917449165852932637}
+  - component: {fileID: 7057042849796428624}
   m_Layer: 0
   m_Name: blackbox
   m_TagString: Untagged
@@ -162,3 +163,15 @@ PolygonCollider2D:
       - {x: 1.5999999, y: -1.5999999}
       - {x: 1.5999999, y: 1.5999999}
   m_UseDelaunayMesh: 0
+--- !u!114 &7057042849796428624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8742259409380824817}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c49fdd100eb90d47889cc89b121e178, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
